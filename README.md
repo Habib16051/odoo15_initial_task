@@ -6,3 +6,5 @@ This is the odoo15 version task
 2. Security
 3.Models
 4.Static
+
+Will update all the menu and features soon!!
